@@ -1,0 +1,64 @@
+hello-world-app/
+├── backend/                         # Java backend
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           ├── HelloWorldApplication.java
+│   │   │   │           └── controller/
+│   │   │   │               └── HelloWorldController.java
+│   │   │   └── resources/
+│   │   │       └── application.properties
+│   │   └── test/
+│   └── pom.xml
+│
+└── frontend/                        # Angular frontend
+    ├── hello-world-angular/
+    │   ├── src/
+    │   │   ├── app/
+    │   │   │   ├── app.component.css
+    │   │   │   ├── app.component.html
+    │   │   │   ├── app.component.ts
+    │   │   │   ├── app.module.ts
+    │   │   │   └── api.service.ts
+    │   │   ├── assets/
+    │   │   ├── environments/
+    │   │   ├── index.html
+    │   │   └── main.ts
+    │   ├── angular.json
+    │   ├── package.json
+    │   └── tsconfig.json
+    └── package.json
+helloworld/
+├── backend/                         # Java backend
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           ├── HelloWorldApplication.java
+│   │   │   │           └── controller/
+│   │   │   │               └── HelloWorldController.java
+│   │   │   └── resources/
+│   │   │       └── application.properties
+│   │   └── test/
+│   └── pom.xml
+│
+└── frontend/                        # Angular frontend
+    ├── hello-world-angular/
+    │   ├── src/
+    │   │   ├── app/
+    │   │   │   ├── app.component.css
+    │   │   │   ├── app.component.html
+    │   │   │   ├── app.component.ts
+    │   │   │   ├── app.module.ts
+    │   │   │   └── api.service.ts
+    │   │   ├── assets/
+    │   │   ├── environments/
+    │   │   ├── index.html
+    │   │   └── main.ts
+    │   ├── angular.json
+    │   ├── package.json
+    │   └── tsconfig.json
+    └── package.json

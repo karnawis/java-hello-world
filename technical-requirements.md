@@ -1,10 +1,11 @@
 # Hello World Java
 
-A quick repo for gaining more familiarity with Java
+A repository to learn java for a developer with a javascript background, it's for gaining more familiarity with Java
 
 ## Tech Stack
 
-- Java 8
+- Java 17
+- spring boot
 - Maven
 - Unit Test
 
